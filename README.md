@@ -22,7 +22,7 @@ These visualizations tell the story of our data and our model's performance.
 
 **3. Model Performance: Actual vs. Predicted**
 *This scatter plot visualizes our model's high accuracy. The tight clustering of predictions around the red "perfect prediction" line confirms the model's reliability.*
-![Actual vs. Predicted Plot](images/GB_actual_vs_predicted_complexity_score.png)
+![Actual vs. Predicted Plot](images/GB_actual_vs_predicted_complexity_scores.png)
 
 ---
 
